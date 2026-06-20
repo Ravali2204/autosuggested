@@ -10,3 +10,9 @@ h1 {
 .para{
     color: orange;
 }
+.navbar{
+    border-color: black;
+    border-style: solid;
+    padding:50px;
+    background-color: brown;
+}
