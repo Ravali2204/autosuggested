@@ -1,13 +1,13 @@
 var users = [
     {
-        name: "John Doe",
+        name: "John",
         gender: "male",
-        image: "/images/jhon-doe.png"
+        image: "../images/john.png"
     },
     {
-        name: "Jane Doe",
+        name: "Jane ",
         gender: "female",
-        image: "/images/jane-doe.png"
+        image: "../images/jane.png"
     }
 ];
 
